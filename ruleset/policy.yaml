@@ -1,0 +1,190 @@
+payload:
+  # amazon
+  - DOMAIN-SUFFIX,amazon.com
+  - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,amazontrust.com
+  - DOMAIN-SUFFIX,associates-amazon.com
+  - DOMAIN-SUFFIX,images-amazon.com
+  - DOMAIN-SUFFIX,media-amazon.com
+  - DOMAIN-SUFFIX,ssl-images-amazon.com
+
+  # apple
+  - DOMAIN,basejumper.apple.com
+  - DOMAIN,radio.itunes.apple.com
+  - DOMAIN,testflight.apple.com
+  - DOMAIN-SUFFIX,apple.news
+  - DOMAIN-SUFFIX,appsto.re
+
+  # media
+  - DOMAIN-SUFFIX,vsmvideo.com
+  - DOMAIN-SUFFIX,xvideos-cdn.com
+  - DOMAIN-SUFFIX,xvideos.com
+
+  # meta
+  - DOMAIN-SUFFIX,fb.me
+  - DOMAIN-SUFFIX,fbcdn.net
+  - DOMAIN-KEYWORD,facebook
+  - DOMAIN-KEYWORD,instagram
+
+  # microsoft
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,bing.net
+  - DOMAIN-SUFFIX,bingapis.com
+  - DOMAIN-SUFFIX,onedrive.com
+  - DOMAIN-SUFFIX,skype.com
+  - DOMAIN-SUFFIX,storage.live.com
+  - DOMAIN-SUFFIX,storage.msn.com
+  - DOMAIN-KEYWORD,gitbook
+  - DOMAIN-KEYWORD,github
+  - DOMAIN-KEYWORD,onedrive
+
+  # pixiv
+  - DOMAIN-SUFFIX,pximg.net
+  - DOMAIN-KEYWORD,pixiv
+
+  # reddit
+  - DOMAIN-SUFFIX,redd.it
+  - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,redditmedia.com
+  - DOMAIN-SUFFIX,redditstatic.com
+
+  # telegram
+  - DOMAIN-SUFFIX,comments.app
+  - DOMAIN-SUFFIX,graph.org
+  - DOMAIN-SUFFIX,legra.ph
+  - DOMAIN-SUFFIX,quiz.directory
+  - DOMAIN-SUFFIX,swiftgram.app
+  - DOMAIN-SUFFIX,t.me
+  - DOMAIN-SUFFIX,tdesktop.com
+  #  - DOMAIN-SUFFIX,telegra.ph
+  #  - DOMAIN-SUFFIX,telegram.me
+  #  - DOMAIN-SUFFIX,telegram.org
+  - DOMAIN-SUFFIX,telesco.pe
+  - DOMAIN-SUFFIX,tg.dev
+  - DOMAIN-SUFFIX,tx.me
+  - DOMAIN-KEYWORD,telegra
+  #  - IP-CIDR,5.28.192.0/18,no-resolve
+  #  - IP-CIDR,91.105.192.0/23,no-resolve
+  #  - IP-CIDR,91.108.4.0/22,no-resolve
+  #  - IP-CIDR,91.108.8.0/22,no-resolve
+  #  - IP-CIDR,91.108.12.0/22,no-resolve
+  #  - IP-CIDR,91.108.16.0/22,no-resolve
+  #  - IP-CIDR,91.108.20.0/22,no-resolve
+  #  - IP-CIDR,91.108.56.0/22,no-resolve
+  #  - IP-CIDR,95.161.64.0/20,no-resolve
+  #  - IP-CIDR,109.239.140.0/24,no-resolve
+  #  - IP-CIDR,149.154.160.0/20,no-resolve
+  #  - IP-CIDR,185.76.151.0/24,no-resolve
+  #  - IP-CIDR6,2001:67c:4e8::/48,no-resolve
+  #  - IP-CIDR6,2001:b28:f23c::/48,no-resolve
+  #  - IP-CIDR6,2001:b28:f23d::/48,no-resolve
+  #  - IP-CIDR6,2001:b28:f23f::/48,no-resolve
+  #  - IP-CIDR6,2a0a:f280::/32,no-resolve
+
+  # twitter
+  - DOMAIN-SUFFIX,periscope.tv
+  - DOMAIN-SUFFIX,pscp.tv
+  - DOMAIN-SUFFIX,t.co
+  - DOMAIN-SUFFIX,tweetdeck.com
+  - DOMAIN-SUFFIX,twitpic.com
+  - DOMAIN-SUFFIX,vine.co
+  - DOMAIN-SUFFIX,x.com
+  - DOMAIN-KEYWORD,twimg
+  - DOMAIN-KEYWORD,twitter
+
+  # wiki
+  - DOMAIN-SUFFIX,mediawiki.org
+  - DOMAIN-SUFFIX,wikibooks.org
+  - DOMAIN-SUFFIX,wikidata.org
+  - DOMAIN-SUFFIX,wikileaks.org
+  - DOMAIN-SUFFIX,wikimapia.org
+  - DOMAIN-SUFFIX,wikimedia.org
+  - DOMAIN-SUFFIX,wikimediafoundation.org
+  - DOMAIN-SUFFIX,wikinews.org
+  - DOMAIN-SUFFIX,wikipedia.org
+  - DOMAIN-SUFFIX,wikiquote.org
+  - DOMAIN-SUFFIX,wikisource.org
+  - DOMAIN-SUFFIX,wikiversity.org
+  - DOMAIN-SUFFIX,wikivoyage.org
+  - DOMAIN-SUFFIX,wikiwand.com
+  - DOMAIN-SUFFIX,wiktionary.org
+
+  # misc
+  - DOMAIN,api.revenuecat.com
+  - DOMAIN,in.appcenter.ms
+  - DOMAIN-SUFFIX,1lib.ph
+  - DOMAIN-SUFFIX,1password.com
+  - DOMAIN-SUFFIX,adblockplus.org
+  - DOMAIN-SUFFIX,adobe.com
+  - DOMAIN-SUFFIX,adobe.io
+  - DOMAIN-SUFFIX,agilebits.com
+  - DOMAIN-SUFFIX,anbernic.com
+  - DOMAIN-SUFFIX,azureedge.net
+  - DOMAIN-SUFFIX,bitznetuk.com
+  - DOMAIN-SUFFIX,branch.io
+  - DOMAIN-SUFFIX,bugsnag.com
+  - DOMAIN-SUFFIX,cdn.com
+  - DOMAIN-SUFFIX,cerebralgardens.com
+  - DOMAIN-SUFFIX,comodoca.com
+  - DOMAIN-SUFFIX,darkreader.org
+  - DOMAIN-SUFFIX,dayoneapp.com
+  - DOMAIN-SUFFIX,digicert.com
+  - DOMAIN-SUFFIX,digitalcertvalidation.com
+  - DOMAIN-SUFFIX,disq.us
+  - DOMAIN-SUFFIX,disqus.com
+  - DOMAIN-SUFFIX,disquscdn.com
+  - DOMAIN-SUFFIX,duckduckgo.com
+  - DOMAIN-SUFFIX,footprintdns.com
+  - DOMAIN-SUFFIX,getupnote.com
+  - DOMAIN-SUFFIX,godaddy.com
+  - DOMAIN-SUFFIX,gravatar.com
+  - DOMAIN-SUFFIX,greasyfork.org
+  - DOMAIN-SUFFIX,he.net
+  - DOMAIN-SUFFIX,idownloadblog.com
+  - DOMAIN-SUFFIX,imgur.com
+  - DOMAIN-SUFFIX,kkimg.cc
+  - DOMAIN-SUFFIX,kox.moe
+  - DOMAIN-SUFFIX,lencr.org
+  - DOMAIN-SUFFIX,limbopro.com
+  - DOMAIN-SUFFIX,loli.net
+  - DOMAIN-SUFFIX,macrumors.com
+  - DOMAIN-SUFFIX,macstories.net
+  - DOMAIN-SUFFIX,onetrust.com
+  - DOMAIN-SUFFIX,onthe.io
+  - DOMAIN-SUFFIX,openstreetmap.org
+  - DOMAIN-SUFFIX,owehrens.com
+  - DOMAIN-SUFFIX,owenyoung.com
+  - DOMAIN-SUFFIX,packagecontrol.io
+  - DOMAIN-SUFFIX,quantumult.app
+  - DOMAIN-SUFFIX,scorecardresearch.com
+  - DOMAIN-SUFFIX,sectigo.com
+  - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,spot.im
+  - DOMAIN-SUFFIX,sublimetext.com
+  - DOMAIN-SUFFIX,symcb.com
+  - DOMAIN-SUFFIX,symcd.com
+  - DOMAIN-SUFFIX,tapbots.net
+  - DOMAIN-SUFFIX,themoviedb.org
+  - DOMAIN-SUFFIX,tiktok.com
+  - DOMAIN-SUFFIX,tmdb.org
+  - DOMAIN-SUFFIX,trello.com
+  - DOMAIN-SUFFIX,trellocdn.com
+  - DOMAIN-SUFFIX,tumblr.com
+  - DOMAIN-SUFFIX,txpdr.us
+  - DOMAIN-SUFFIX,usertrust.com
+  - DOMAIN-SUFFIX,v2ex.com
+  - DOMAIN-SUFFIX,vercel.app
+  - DOMAIN-SUFFIX,videoplayerhub.com
+  - DOMAIN-SUFFIX,videopress.com
+  - DOMAIN-SUFFIX,wedata.net
+  - DOMAIN-SUFFIX,wordpress.com
+  - DOMAIN-SUFFIX,wp.com
+  - DOMAIN-SUFFIX,yahoo.com
+  - DOMAIN-SUFFIX,yandex.net
+  - DOMAIN-KEYWORD,9to5
+  - DOMAIN-KEYWORD,cloudflare
+  - DOMAIN-KEYWORD,cloudfront
+  - DOMAIN-KEYWORD,dropbox
+  # - DOMAIN-KEYWORD,jsdelivr
+  - DOMAIN-KEYWORD,mastodon
+  - DOMAIN-KEYWORD,mobileread

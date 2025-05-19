@@ -1,0 +1,37 @@
+payload:
+  # google
+  - DOMAIN-SUFFIX,g.co
+  - DOMAIN-SUFFIX,ggpht.com
+  - DOMAIN-SUFFIX,gmail.com
+  - DOMAIN-SUFFIX,goo.gl
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,gvt0.com
+  - DOMAIN-SUFFIX,gvt1.com
+  - DOMAIN-SUFFIX,gvt2.com
+  - DOMAIN-SUFFIX,gvt3.com
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+  - DOMAIN-SUFFIX,yt.be
+  - DOMAIN-SUFFIX,ytimg.com
+  - DOMAIN-KEYWORD,blogspot
+  - DOMAIN-KEYWORD,goog
+  - DOMAIN-KEYWORD,youtu
+
+  # spotify
+  - DOMAIN-SUFFIX,pscdn.co
+  - DOMAIN-SUFFIX,scdn.co
+  - DOMAIN-SUFFIX,spoti.fi
+  - DOMAIN-KEYWORD,spotify
+
+  # youtube
+  #  - DOMAIN,youtubei.googleapis.com
+  #  - DOMAIN,yt3.ggpht.com
+  #  - DOMAIN-SUFFIX,googlevideo.com
+  # - DOMAIN# -SUFFIX,withyoutube.com
+  # - DOMAIN# -SUFFIX,youtu.be
+  # - DOMAIN# -SUFFIX,youtube# -nocookie.com
+  # - DOMAIN# -SUFFIX,youtube.com
+  # - DOMAIN# -SUFFIX,youtubeeducation.com
+  # - DOMAIN# -SUFFIX,youtubegaming.com
+  # - DOMAIN# -SUFFIX,youtubekids.com
+  # - DOMAIN# -SUFFIX,yt.be
+  # - DOMAIN# -SUFFIX,ytimg.com
