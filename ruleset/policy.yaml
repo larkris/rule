@@ -111,6 +111,7 @@ payload:
 
   # misc
   - DOMAIN,api.revenuecat.com
+  - DOMAIN,cdn.jsdelivr.net
   - DOMAIN,in.appcenter.ms
   - DOMAIN-SUFFIX,1lib.ph
   - DOMAIN-SUFFIX,1password.com
@@ -145,6 +146,7 @@ payload:
   - DOMAIN-SUFFIX,kkimg.cc
   - DOMAIN-SUFFIX,kox.moe
   - DOMAIN-SUFFIX,lencr.org
+  - DOMAIN-SUFFIX,libvio.fun
   - DOMAIN-SUFFIX,limbopro.com
   - DOMAIN-SUFFIX,loli.net
   - DOMAIN-SUFFIX,macrumors.com
